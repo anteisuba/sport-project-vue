@@ -1,0 +1,65 @@
+{
+  "id": "4765279",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36133693",
+      "name": "项目",
+      "font_class": "a-Group789",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "36133694",
+      "name": "下载",
+      "font_class": "a-Group790",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "36133858",
+      "name": "层级",
+      "font_class": "a-Group808",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "42584143",
+      "name": "工作台",
+      "font_class": "gongzuotai",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "42602695",
+      "name": "菜单设置",
+      "font_class": "caidanshezhi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "42602726",
+      "name": "出入库报表",
+      "font_class": "churukubaobiao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "42602727",
+      "name": "初筛",
+      "font_class": "chushai",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "42602728",
+      "name": "发票夹",
+      "font_class": "fapiaojia",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
